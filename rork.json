@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "EtsiPRO",
+      "path": "web-etsipro",
+      "framework": "web"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
